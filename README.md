@@ -1,6 +1,6 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/3ro_1C-Matematica_Discreta_II-FAMAF)
 
-# Materia - FAMAF - Computacion
+# Matematica Discreta II - FAMAF - Computacion
 
 > 1C
 
