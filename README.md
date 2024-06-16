@@ -1,8 +1,10 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/3ro_1C-Matematica_Discreta_II-FAMAF)
 
-# Materia - FAMAF - Computacion
+# Materia - FAMAF - LCC y LMA
 
 > 1C
+
+# LCC
 
 ## Correlativas para **cursar**
 
@@ -21,6 +23,10 @@
 ## Es correlativa de:
 
 - Ninguna.
+
+# LMA
+
+- No relevado.
 
 ## Clonar el repositorio
 
