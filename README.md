@@ -1,6 +1,6 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/3ro_1C-Matematica_Discreta_II-FAMAF)
 
-# Materia - FAMAF - LCC y LMA
+# Matematica Discreta II - FAMAF - LCC y LMA
 
 > 1C
 
